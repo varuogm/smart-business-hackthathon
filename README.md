@@ -1,4 +1,4 @@
-# Smart-business-hackthathon
+# Smart-Business-Hackthathon
 > Some files from the smart business hackathon .
 
 <br>
